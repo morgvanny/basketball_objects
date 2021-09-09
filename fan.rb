@@ -1,4 +1,4 @@
-require 'pry'
+require 'pry' # we need this
 class Fan
           attr_accessor :name
 
