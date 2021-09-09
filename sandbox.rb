@@ -1,3 +1,8 @@
+require_relative './fan'
+require_relative './olayer'
+require_relative './fan_player'
+require_relative './team'
+
 player_hashes = [
   {
     name: "Alan Anderson",
