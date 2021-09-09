@@ -33,5 +33,6 @@ class Fan
 
           def self.all
             @@all
+            puts @@all
           end
         end
