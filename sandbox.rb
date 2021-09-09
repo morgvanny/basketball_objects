@@ -3,7 +3,7 @@ player_hashes = [
     name: "Alan Anderson",
     number: 0,
     shoe: 16,
-    points: 22,
+    points: 23,
     rebounds: 12,
     assists: 12,
     steals: 3,
