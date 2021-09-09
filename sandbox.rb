@@ -142,6 +142,3 @@ FanPlayer.new(fan, alan)
 FanPlayer.new(fan2, alan)
 FanPlayer.new(fan3, kemba)
 FanPlayer.new(fan, Player.all[1])
-
-
-binding.pry
