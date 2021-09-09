@@ -146,4 +146,3 @@ player_hashes = [
         FanPlayer.new(fan, Player.all[1])
 
 
-        binding.pry
