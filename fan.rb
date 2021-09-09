@@ -1,6 +1,6 @@
 require 'pry'
 class Fan
-          attr_accessor :name
+          attr_accessor :name, :age
 
           def initialize(name)
             self.name = name
