@@ -1,5 +1,5 @@
  class Team
-        attr_accessor :name, :colors
+        attr_accessor :name, :colors, :test
 
         @@all = []
 
